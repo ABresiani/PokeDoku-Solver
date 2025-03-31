@@ -1,0 +1,1216 @@
+Name,Form,Type 1,Type 2,Region,Classification 1,Classification 2,Evolves With,Evolution,Branched Evolution,Mono Type,Dual Type,Mega Evolved,Gmax Form,Baby,Evolution Line
+Bulbasaur,,Grass,Poison,Kanto,First Partner,,,First In Evolution Line,,,Dual-Type,,,,
+Ivysaur,,Grass,Poison,Kanto,First Partner,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Venusaur,,Grass,Poison,Kanto,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Venusaur Mega,Mega Venusaur,Grass,Poison,Kanto,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Charmander,,Fire,,Kanto,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Charmeleon,,Fire,,Kanto,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Charizard,,Fire,Flying,Kanto,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Charizard Mega X,Mega Charizard X,Fire,Dragon,Kanto,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Charizard Mega Y,Mega Charizard Y,Fire,Flying,Kanto,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Squirtle,,Water,,Kanto,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Wartortle,,Water,,Kanto,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Blastoise,,Water,,Kanto,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,Gmax Form,,
+Blastoise Mega,Mega Blastoise,Water,,Kanto,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,Mega Evolved,,,
+Caterpie,,Bug,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Metapod,,Bug,,Kanto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Butterfree,,Bug,Flying,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Weedle,,Bug,Poison,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Kakuna,,Bug,Poison,Kanto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Beedrill,,Bug,Poison,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Beedrill Mega,Mega Beedrill,Bug,Poison,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Pidgey,,Normal,Flying,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Pidgeotto,,Normal,Flying,Kanto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Pidgeot,,Normal,Flying,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Pidgeot Mega,Mega Pidgeot,Normal,Flying,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Rattata,,Normal,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Rattata Alola,Alolan Rattata,Dark,Normal,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Raticate,,Normal,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Raticate Alola,Alolan Raticate,Dark,Normal,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Spearow,,Normal,Flying,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Fearow,,Normal,Flying,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Ekans,,Poison,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Arbok,,Poison,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Pikachu,,Electric,,Kanto,,,Evolved By Friendship,Middle Evolution,,Mono-Type,,,Gmax Form,,
+Pikachu Partner,Partner Pikachu,Electric,,Kanto,,,Evolved By Friendship,Middle Evolution,,Mono-Type,,,,,
+Raichu,,Electric,,Kanto,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Raichu Alola,Alolan Raichu,Electric,Psychic,Alola,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Sandshrew,,Ground,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Sandshrew Alola,Alolan Sandshrew,Ice,Steel,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Sandslash,,Ground,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Sandslash Alola,Alolan Sandslash,Ice,Steel,Alola,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Nidoran♀,,Poison,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Nidorina,,Poison,,Kanto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Nidoqueen,,Poison,Ground,Kanto,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Nidoran♂,,Poison,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Nidorino,,Poison,,Kanto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Nidoking,,Poison,Ground,Kanto,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Clefairy,,Fairy,,Kanto,,,Evolved By Friendship,Middle Evolution,,Mono-Type,,,,,
+Clefable,,Fairy,,Kanto,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Vulpix,,Fire,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Vulpix Alola,Alolan Vulpix,Ice,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Ninetales,,Fire,,Kanto,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Ninetales Alola,Alolan Ninetales,Ice,Fairy,Alola,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Jigglypuff,,Normal,Fairy,Kanto,,,Evolved By Friendship,Middle Evolution,,,Dual-Type,,,,
+Wigglytuff,,Normal,Fairy,Kanto,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Zubat,,Poison,Flying,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Golbat,,Poison,Flying,Kanto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Oddish,,Grass,Poison,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Gloom,,Grass,Poison,Kanto,,,Evolved By Level-Up,Middle Evolution,Has Branched Evolution,,Dual-Type,,,,
+Vileplume,,Grass,Poison,Kanto,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Paras,,Bug,Grass,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Parasect,,Bug,Grass,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Venonat,,Bug,Poison,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Venomoth,,Bug,Poison,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Diglett,,Ground,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Diglett Alola,Alolan Diglett,Ground,Steel,Alola,,,,Final Evolution,,,Dual-Type,,,,
+Dugtrio,,Ground,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Dugtrio Alola,Alolan Dugtrio,Ground,Steel,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Meowth,,Normal,,Kanto,,,,First In Evolution Line,,Mono-Type,,,Gmax Form,,
+Meowth Alola,Alolan Meowth,Dark,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Meowth Galar,Galarian Meowth,Steel,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Persian,,Normal,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Persian Alola,Alolan Persian,Dark,,Alola,,,Evolved By Friendship,Final Evolution,,Mono-Type,,,,,
+Psyduck,,Water,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Golduck,,Water,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Mankey,,Fighting,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Primeape,,Fighting,,Kanto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Growlithe,,Fire,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Growlithe Hisui,Hisuian Growlithe,Fire,Rock,Hisui,,,,First In Evolution Line,,,Dual-Type,,,,
+Arcanine,,Fire,,Kanto,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Arcanine Hisui,Hisuian Arcanine,Fire,Rock,Hisui,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Poliwag,,Water,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Poliwhirl,,Water,,Kanto,,,Evolved By Level-Up,Middle Evolution,Has Branched Evolution,Mono-Type,,,,,
+Poliwrath,,Water,Fighting,Kanto,,,Evolved By Item,Final Evolution,,,,,,,
+Abra,,Psychic,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Kadabra,,Psychic,,Kanto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Alakazam,,Psychic,,Kanto,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Alakazam Mega,Mega Alakazam,Psychic,,Kanto,,,Evolved By Trade,Final Evolution,,Mono-Type,,Mega Evolved,,,
+Machop,,Fighting,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Machoke,,Fighting,,Kanto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Machamp,,Fighting,,Kanto,,,Evolved By Trade,Final Evolution,,Mono-Type,,,Gmax Form,,
+Bellsprout,,Grass,Poison,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Weepinbell,,Grass,Poison,Kanto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Victreebel,,Grass,Poison,Kanto,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Tentacool,,Water,Poison,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Tentacruel,,Water,Poison,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Geodude,,Rock,Ground,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Geodude Alola,Alolan Geodude,Rock,Electric,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Graveler,,Rock,Ground,Kanto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Graveler Alola,Alolan Graveler,Rock,Electric,Alola,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Golem,,Rock,Ground,Kanto,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Golem Alola,Alolan Golem,Rock,Electric,Alola,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Ponyta,,Fire,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Ponyta Galar,Galarian Ponyta,Psychic,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Rapidash,,Fire,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Rapidash Galar,Galarian Rapidash,Psychic,Fairy,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Slowpoke,,Water,Psychic,Kanto,,,,First In Evolution Line,Has Branched Evolution,,Dual-Type,,,,
+Slowpoke Galar,Galarian Slowpoke,Psychic,,Galar,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,,
+Slowbro,,Water,Psychic,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Slowbro Mega,Mega Slowbro,Water,Psychic,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Slowbro Galar,Galarian Slowbro,Poison,Psychic,Galar,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Magnemite,,Electric,Steel,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Magneton,,Electric,Steel,Kanto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Farfetch'd,,Normal,Flying,Kanto,,,,,,,Dual-Type,,,,No Evolution Line
+Farfetch'd Galar,Galarian Farfetch'd,Fighting,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Doduo,,Normal,Flying,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Dodrio,,Normal,Flying,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Seel,,Water,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Dewgong,,Water,Ice,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Grimer,,Poison,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Grimer Alola,Alolan Grimer,Poison,Dark,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Muk,,Poison,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Muk Alola,Alolan Muk,Poison,Dark,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Shellder,,Water,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Cloyster,,Water,Ice,Kanto,,,Evolved By Item,,,,Dual-Type,,,,
+Gastly,,Ghost,Poison,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Haunter,,Ghost,Poison,Kanto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Gengar,,Ghost,Poison,Kanto,,,Evolved By Trade,Final Evolution,,,Dual-Type,,Gmax Form,,
+Gengar Mega,Mega Gengar,Ghost,Poison,Kanto,,,Evolved By Trade,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Onix,,Rock,Ground,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Drowzee,,Psychic,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Hypno,,Psychic,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Krabby,,Water,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Kingler,,Water,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,Gmax Form,,
+Voltorb,,Electric,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Voltorb Hisui,Hisuian Voltorb,Electric,Grass,Hisui,,,,First In Evolution Line,,,Dual-Type,,,,
+Electrode,,Electric,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Electrode Hisui,Hisuian Electrode,Electric,Grass,Hisui,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Exeggcute,,Grass,Psychic,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Exeggutor,,Grass,Psychic,Kanto,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Exeggutor Alola,Alolan Exeggutor,Grass,Dragon,Alola,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Cubone,,Ground,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Marowak,,Ground,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Marowak Alola,Alolan Marowak,Fire,Ghost,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Hitmonlee,,Fighting,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Hitmonchan,,Fighting,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Lickitung,,Normal,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Koffing,,Poison,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Weezing,,Poison,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Weezing Galar,Galarian Weezing,Poison,Fairy,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Rhyhorn,,Ground,Rock,Kanto,,,,First In Evolution Line,,,Dual-Type,,,,
+Rhydon,,Ground,Rock,Kanto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Chansey,,Normal,,Kanto,,,,Middle Evolution,,Mono-Type,,,,,
+Tangela,,Grass,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Kangaskhan,,Normal,,Kanto,,,,,,Mono-Type,,,,,No Evolution Line
+Kangaskhan Mega,Mega Kangaskhan,Normal,,Kanto,,,,,,Mono-Type,,Mega Evolved,,,No Evolution Line
+Horsea,,Water,,Kanto,,,Evolved By Level-Up,First In Evolution Line,,Mono-Type,,,,,
+Seadra,,Water,,Kanto,,,,Middle Evolution,,Mono-Type,,,,,
+Goldeen,,Water,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Seaking,,Water,,Kanto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Staryu,,Water,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Starmie,,Water,Psychic,Kanto,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Mr. Mime,,Psychic,Fairy,Kanto,,,,Final Evolution,,,Dual-Type,,,,
+Mr. Mime Galar,Galarian Mr. Mime,Ice,Psychic,Galar,,,,Middle Evolution,,,Dual-Type,,,,
+Scyther,,Bug,Flying,Kanto,,,,First In Evolution Line,Has Branched Evolution,,Dual-Type,,,,
+Jynx,,Ice,Psychic,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Electabuzz,,Electric,,Kanto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Magmar,,Fire,,Kanto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Pinsir,,Bug,,Kanto,,,,,,Mono-Type,,,,,No Evolution Line
+Pinsir Mega,Mega Pinsir,Bug,Flying,Kanto,,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Tauros,,Normal,,Kanto,,,,,,Mono-Type,,,,,No Evolution Line
+Tauros Paldea Combat Breed,Combat Breed,Fighting,,Paldea + Area Zero DLC,,,,,,Mono-Type,,,,,No Evolution Line
+Tauros Paldea Blaze Breed,Blaze Breed,Fighting,Fire,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Tauros Paldea Aqua Breed,Aqua Breed,Fighting,Water,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Magikarp,,Water,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Gyarados,,Water,Flying,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Gyarados Mega,Mega Gyarados,Water,Dark,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Lapras,,Water,Ice,Kanto,,,,,,,Dual-Type,,Gmax Form,,No Evolution Line
+Ditto,,Normal,,Kanto,,,,,,Mono-Type,,,,,No Evolution Line
+Eevee,,Normal,,Kanto,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,Gmax Form,,
+Eevee Partner,Partner Eevee,Normal,,Kanto,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,,
+Vaporeon,,Water,,Kanto,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Jolteon,,Electric,,Kanto,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Flareon,,Fire,,Kanto,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Porygon,,Normal,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Omanyte,,Rock,Water,Kanto,Fossil,,,First In Evolution Line,,,Dual-Type,,,,
+Omastar,,Rock,Water,Kanto,Fossil,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Kabuto,,Rock,Water,Kanto,Fossil,,,First In Evolution Line,,,Dual-Type,,,,
+Kabutops,,Rock,Water,Kanto,Fossil,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Aerodactyl,,Rock,Flying,Kanto,Fossil,,,,,,Dual-Type,,,,No Evolution Line
+Aerodactyl Mega,Mega Aerodactyl,Rock,Flying,Kanto,Fossil,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Snorlax,,Normal,,Kanto,,,Evolved By Friendship,Final Evolution,,Mono-Type,,,Gmax Form,,
+Articuno,,Ice,Flying,Kanto,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Articuno Galar,Galarian Articuno,Psychic,Flying,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Zapdos,,Electric,Flying,Kanto,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Zapdos Galar,Galarian Zapdos,Fighting,Flying,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Moltres,,Fire,Flying,Kanto,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Moltres Galar,Galarian Moltres,Dark,Flying,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Dratini,,Dragon,,Kanto,,,,First In Evolution Line,,Mono-Type,,,,,
+Dragonair,,Dragon,,Kanto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Dragonite,,Dragon,Flying,Kanto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Mewtwo,,Psychic,,Kanto,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Mewtwo Mega X,Mega Mewtwo X,Psychic,Fighting,Kanto,Legendary,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Mewtwo Mega Y,Mega Mewtwo Y,Psychic,,Kanto,Legendary,,,,,Mono-Type,,Mega Evolved,,,No Evolution Line
+Mew,,Psychic,,Kanto,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Chikorita,,Grass,,Johto,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Bayleef,,Grass,,Johto,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Meganium,,Grass,,Johto,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Cyndaquil,,Fire,,Johto,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Quilava,,Fire,,Johto,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Typhlosion,,Fire,,Johto,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Typhlosion Hisui,Hisuian Typhlosion,Fire,Ghost,Hisui,First Partner,,Evolved By Level-Up,,,,Dual-Type,,,,
+Totodile,,Water,,Johto,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Croconaw,,Water,,Johto,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Feraligatr,,Water,,Johto,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Sentret,,Normal,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Furret,,Normal,,Johto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Hoothoot,,Normal,Flying,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Noctowl,,Normal,Flying,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Ledyba,,Bug,Flying,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Ledian,,Bug,Flying,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Spinarak,,Bug,Poison,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Ariados,,Bug,Poison,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Crobat,,Poison,Flying,Johto,,,Evolved By Friendship,Final Evolution,,,Dual-Type,,,,
+Chinchou,,Water,Electric,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Lanturn,,Water,Electric,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Pichu,,Electric,,Johto,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Cleffa,,Fairy,,Johto,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Igglybuff,,Normal,Fairy,Johto,,,,First In Evolution Line,,,Dual-Type,,,Baby,
+Togepi,,Fairy,,Johto,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Togetic,,Fairy,Flying,Johto,,,Evolved By Friendship,Middle Evolution,,,Dual-Type,,,,
+Natu,,Psychic,Flying,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Xatu,,Psychic,Flying,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Mareep,,Electric,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Flaaffy,,Electric,,Johto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Ampharos,,Electric,,Johto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Ampharos Mega,Mega Ampharos,Electric,Dragon,Johto,,,Evolved By Level-Up,,,,Dual-Type,Mega Evolved,,,
+Bellossom,,Grass,,Johto,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Marill,,Water,Fairy,Johto,,,Evolved By Friendship,Middle Evolution,,,Dual-Type,,,,
+Azumarill,,Water,Fairy,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Sudowoodo,,Rock,,Johto,,,,Final Evolution,,Mono-Type,,,,,
+Politoed,,Water,,Johto,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Hoppip,,Grass,Flying,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Skiploom,,Grass,Flying,Johto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Jumpluff,,Grass,Flying,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Aipom,,Normal,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Sunkern,,Grass,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Sunflora,,Grass,,Johto,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Yanma,,Bug,Flying,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Wooper,,Water,Ground,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Wooper Paldea,Paldean Wooper,Poison,Ground,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Quagsire,,Water,Ground,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Espeon,,Psychic,,Johto,,,Evolved By Friendship,Final Evolution,,Mono-Type,,,,,
+Umbreon,,Dark,,Johto,,,Evolved By Friendship,Final Evolution,,Mono-Type,,,,,
+Murkrow,,Dark,Flying,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Slowking,,Water,Psychic,Johto,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Slowking Galar,Galarian Slowking,Poison,Psychic,Galar,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Misdreavus,,Ghost,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Unown,,Psychic,,Johto,,,,,,Mono-Type,,,,,No Evolution Line
+Wobbuffet,,Psychic,,Johto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Girafarig,,Normal,Psychic,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Pineco,,Bug,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Forretress,,Bug,Steel,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Dunsparce,,Normal,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Gligar,,Ground,Flying,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Steelix,,Steel,Ground,Johto,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Steelix Mega,Mega Steelix,Steel,Ground,Johto,,,Evolved By Trade,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Snubbull,,Fairy,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Granbull,,Fairy,,Johto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Qwilfish,,Water,Poison,Johto,,,,,,,Dual-Type,,,,No Evolution Line
+Qwilfish Hisui,Hisuian Qwilfish,Dark,Poison,Hisui,,,,First In Evolution Line,,,Dual-Type,,,,
+Scizor,,Bug,Steel,Johto,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Scizor Mega,Mega Scizor,Bug,Steel,Johto,,,Evolved By Trade,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Shuckle,,Bug,Rock,Johto,,,,,,,Dual-Type,,,,No Evolution Line
+Heracross,,Bug,Fighting,Johto,,,,,,,Dual-Type,,,,No Evolution Line
+Heracross Mega,Mega Heracross,Bug,Fighting,Johto,,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Sneasel,,Dark,Ice,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Sneasel Hisui,Hisuian Sneasel,Fighting,Poison,Hisui,,,,First In Evolution Line,,,Dual-Type,,,,
+Teddiursa,,Normal,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Ursaring,,Normal,,Johto,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Slugma,,Fire,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Magcargo,,Fire,Rock,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Swinub,,Ice,Ground,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Piloswine,,Ice,Ground,Johto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Corsola,,Water,Rock,Johto,,,,,,,Dual-Type,,,,No Evolution Line
+Corsola Galar,Galarian Corsola,Ghost,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Remoraid,,Water,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Octillery,,Water,,Johto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Delibird,,Ice,Flying,Johto,,,,,,,Dual-Type,,,,No Evolution Line
+Mantine,,Water,Flying,Johto,,,,Final Evolution,,,Dual-Type,,,,
+Skarmory,,Steel,Flying,Johto,,,,,,,Dual-Type,,,,No Evolution Line
+Houndour,,Dark,Fire,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Houndoom,,Dark,Fire,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Houndoom Mega,Mega Houndoom,Dark,Fire,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Kingdra,,Water,Dragon,Johto,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Phanpy,,Ground,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Donphan,,Ground,,Johto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Porygon2,,Normal,,Johto,,,Evolved By Trade,Middle Evolution,,Mono-Type,,,,,
+Stantler,,Normal,,Johto,,,,First In Evolution Line,,Mono-Type,,,,,
+Smeargle,,Normal,,Johto,,,,,,Mono-Type,,,,,No Evolution Line
+Tyrogue,,Fighting,,Johto,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,Baby,
+Hitmontop,,Fighting,,Johto,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Smoochum,,Ice,Psychic,Johto,,,,Final Evolution,,,Dual-Type,,,Baby,
+Elekid,,Electric,,Johto,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Magby,,Fire,,Johto,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Miltank,,Normal,,Johto,,,,,,Mono-Type,,,,,No Evolution Line
+Blissey,,Normal,,Johto,,,Evolved By Friendship,Final Evolution,,Mono-Type,,,,,
+Raikou,,Electric,,Johto,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Entei,,Fire,,Johto,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Suicune,,Water,,Johto,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Larvitar,,Rock,Ground,Johto,,,,First In Evolution Line,,,Dual-Type,,,,
+Pupitar,,Rock,Ground,Johto,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Tyranitar,,Rock,Dark,Johto,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Tyranitar Mega,Mega Tyranitar,Rock,Dark,Johto,,,,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Lugia,,Psychic,Flying,Johto,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Ho-oh,,Fire,Flying,Johto,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Celebi,,Psychic,Grass,Johto,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Treecko,,Grass,,Hoenn,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Grovyle,,Grass,,Hoenn,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Sceptile,,Grass,,Hoenn,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Sceptile Mega,Mega Sceptile,Grass,Dragon,Hoenn,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Torchic,,Fire,,Hoenn,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Combusken,,Fire,Fighting,Hoenn,First Partner,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Blaziken,,Fire,Fighting,Hoenn,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Blaziken Mega,Mega Blaziken,Fire,Fighting,Hoenn,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Mudkip,,Water,,Hoenn,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Marshtomp,,Water,Ground,Hoenn,First Partner,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Swampert,,Water,Ground,Hoenn,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Swampert Mega,Mega Swampert,Water,Ground,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Poochyena,,Dark,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Mightyena,,Dark,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Zigzagoon,,Normal,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Zigzagoon Galar,Galarian Zigzagoon,Dark,Normal,Galar,,,,First In Evolution Line,,,Dual-Type,,,,
+Linoone,,Normal,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Linoone Galar,Galarian Linoone,Dark,Normal,Galar,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Wurmple,,Bug,,Hoenn,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,,
+Silcoon,,Bug,,Hoenn,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Beautifly,,Bug,Flying,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Cascoon,,Bug,,Hoenn,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Dustox,,Bug,Poison,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Lotad,,Water,Grass,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Lombre,,Water,Grass,Hoenn,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Ludicolo,,Water,Grass,Hoenn,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Seedot,,Grass,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Nuzleaf,,Grass,Dark,Hoenn,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Shiftry,,Grass,Dark,Hoenn,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Taillow,,Normal,Flying,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Swellow,,Normal,Flying,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Wingull,,Water,Flying,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Pelipper,,Water,Flying,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Ralts,,Psychic,Fairy,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Kirlia,,Psychic,Fairy,Hoenn,,,Evolved By Level-Up,Middle Evolution,Has Branched Evolution,,Dual-Type,,,,
+Gardevoir,,Psychic,Fairy,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Gardevoir Mega,Mega Gardevoir,Psychic,Fairy,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Surskit,,Bug,Water,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Masquerain,,Bug,Flying,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Shroomish,,Grass,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Breloom,,Grass,Fighting,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Slakoth,,Normal,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Vigoroth,,Normal,,Hoenn,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Slaking,,Normal,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Nincada,,Bug,Ground,Hoenn,,,,First In Evolution Line,Has Branched Evolution,,Dual-Type,,,,
+Ninjask,,Bug,Flying,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Shedinja,,Bug,Ghost,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Whismur,,Normal,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Loudred,,Normal,,Hoenn,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Exploud,,Normal,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Makuhita,,Fighting,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Hariyama,,Fighting,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Azurill,,Normal,Fairy,Hoenn,,,,Final Evolution,,,Dual-Type,,,Baby,
+Nosepass,,Rock,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Skitty,,Normal,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Delcatty,,Normal,,Hoenn,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Sableye,,Dark,Ghost,Hoenn,,,,,,,Dual-Type,,,,No Evolution Line
+Sableye Mega,Mega Sableye,Dark,Ghost,Hoenn,,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Mawile,,Steel,Fairy,Hoenn,,,,,,,Dual-Type,,,,No Evolution Line
+Mawile Mega,Mega Mawile,Steel,Fairy,Hoenn,,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Aron,,Steel,Rock,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Lairon,,Steel,Rock,Hoenn,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Aggron,,Steel,Rock,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Aggron Mega,Mega Aggron,Steel,,Hoenn,,,,Final Evolution,,Mono-Type,,Mega Evolved,,,
+Meditite,,Fighting,Psychic,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Medicham,,Fighting,Psychic,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Medicham Mega,Mega Medicham,Fighting,Psychic,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Electrike,,Electric,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Manectric,,Electric,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Manectric Mega,Mega Manectric,Electric,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,Mega Evolved,,,
+Plusle,,Electric,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Minun,,Electric,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Volbeat,,Bug,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Illumise,,Bug,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Roselia,,Grass,Poison,Hoenn,,,Evolved By Friendship,Middle Evolution,,,Dual-Type,,,,
+Gulpin,,Poison,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Swalot,,Poison,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Carvanha,,Water,Dark,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Sharpedo,,Water,Dark,Hoenn,,,,Final Evolution,,,Dual-Type,,,,
+Sharpedo Mega,Mega Sharpedo,Water,Dark,Hoenn,,,,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Wailmer,,Water,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Wailord,,Water,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Numel,,Fire,Ground,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Camerupt,,Fire,Ground,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Camerupt Mega,Mega Camerupt,Fire,Ground,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Torkoal,,Fire,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Spoink,,Psychic,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Grumpig,,Psychic,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Spinda,,Normal,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Trapinch,,Ground,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Vibrava,,Ground,Dragon,Hoenn,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Flygon,,Ground,Dragon,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Cacnea,,Grass,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Cacturne,,Grass,Dark,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Swablu,,Normal,Flying,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Altaria,,Dragon,Flying,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Altaria Mega,Mega Altaria,Dragon,Fairy,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Zangoose,,Normal,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Seviper,,Poison,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Lunatone,,Rock,Psychic,Hoenn,,,,,,,Dual-Type,,,,No Evolution Line
+Solrock,,Rock,Psychic,Hoenn,,,,,,,Dual-Type,,,,No Evolution Line
+Barboach,,Water,Ground,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Whiscash,,Water,Ground,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Corphish,,Water,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Crawdaunt,,Water,Dark,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Baltoy,,Ground,Psychic,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Claydol,,Ground,Psychic,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Lileep,,Rock,Grass,Hoenn,Fossil,,,First In Evolution Line,,,Dual-Type,,,,
+Cradily,,Rock,Grass,Hoenn,Fossil,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Anorith,,Rock,Bug,Hoenn,Fossil,,,First In Evolution Line,,,Dual-Type,,,,
+Armaldo,,Rock,Bug,Hoenn,Fossil,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Feebas,,Water,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Milotic,,Water,,Hoenn,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Castform,,Normal,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Castform Sunny,Sunny Form,Fire,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Castform Rainy,Rainy Form,Water,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Castform Snowy,Snowy Form,Ice,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Kecleon,,Normal,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Shuppet,,Ghost,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Banette,,Ghost,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Banette Mega,Mega Banette,Ghost,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,Mega Evolved,,,
+Duskull,,Ghost,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Dusclops,,Ghost,,Hoenn,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Tropius,,Grass,Flying,Hoenn,,,,,,,Dual-Type,,,,No Evolution Line
+Chimecho,,Psychic,,Hoenn,,,Evolved By Friendship,Final Evolution,,Mono-Type,,,,,
+Absol,,Dark,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Absol Mega,Mega Absol,Dark,,Hoenn,,,,,,Mono-Type,,Mega Evolved,,,No Evolution Line
+Wynaut,,Psychic,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Snorunt,,Ice,,Hoenn,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,,
+Glalie,,Ice,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Glalie Mega,Mega Glalie,Ice,,Hoenn,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,Mega Evolved,,,
+Spheal,,Ice,Water,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Sealeo,,Ice,Water,Hoenn,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Walrein,,Ice,Water,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Clamperl,,Water,,Hoenn,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,,
+Huntail,,Water,,Hoenn,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Gorebyss,,Water,,Hoenn,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Relicanth,,Water,Rock,Hoenn,,,,,,,Dual-Type,,,,No Evolution Line
+Luvdisc,,Water,,Hoenn,,,,,,Mono-Type,,,,,No Evolution Line
+Bagon,,Dragon,,Hoenn,,,,First In Evolution Line,,Mono-Type,,,,,
+Shelgon,,Dragon,,Hoenn,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Salamence,,Dragon,Flying,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Salamence Mega,Mega Salamence,Dragon,Flying,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Beldum,,Steel,Psychic,Hoenn,,,,First In Evolution Line,,,Dual-Type,,,,
+Metang,,Steel,Psychic,Hoenn,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Metagross,,Steel,Psychic,Hoenn,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Metagross Mega,Mega Metagross,Steel,Psychic,Hoenn,,,,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Regirock,,Rock,,Hoenn,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Regice,,Ice,,Hoenn,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Registeel,,Steel,,Hoenn,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Latias,,Dragon,Psychic,Hoenn,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Latias Mega,Mega Latias,Dragon,Psychic,Hoenn,Legendary,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Latios,,Dragon,Psychic,Hoenn,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Latios Mega,Mega Latios,Dragon,Psychic,Hoenn,Legendary,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Kyogre,,Water,,Hoenn,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Kyogre Primal,Primal Kyogre,Water,,Hoenn,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Groudon,,Ground,,Hoenn,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Groudon Primal,Primal Groudon,Ground,Fire,Hoenn,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Rayquaza,,Dragon,Flying,Hoenn,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Rayquaza Mega,Mega Rayquaza,Dragon,Flying,Hoenn,Legendary,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Jirachi,,Steel,Psychic,Hoenn,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Deoxys Normal,Normal Forme,Psychic,,Hoenn,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Deoxys Attack,Attack Forme,Psychic,,Hoenn,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Deoxys Defense,Defense Forme,Psychic,,Hoenn,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Deoxys Speed,Speed Forme,Psychic,,Hoenn,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Turtwig,,Grass,,Sinnoh,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Grotle,,Grass,,Sinnoh,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Torterra,,Grass,Ground,Sinnoh,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Chimchar,,Fire,,Sinnoh,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Monferno,,Fire,Fighting,Sinnoh,First Partner,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Infernape,,Fire,Fighting,Sinnoh,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Piplup,,Water,,Sinnoh,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Prinplup,,Water,,Sinnoh,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Empoleon,,Water,Steel,Sinnoh,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Starly,,Normal,Flying,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,,
+Staravia,,Normal,Flying,Sinnoh,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Staraptor,,Normal,Flying,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Bidoof,,Normal,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Bibarel,,Normal,Water,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Kricketot,,Bug,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Kricketune,,Bug,,Sinnoh,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Shinx,,Electric,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Luxio,,Electric,,Sinnoh,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Luxray,,Electric,,Sinnoh,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Budew,,Grass,Poison,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,Baby,
+Roserade,,Grass,Poison,Sinnoh,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Cranidos,,Rock,,Sinnoh,Fossil,,,First In Evolution Line,,Mono-Type,,,,,
+Rampardos,,Rock,,Sinnoh,Fossil,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Shieldon,,Rock,Steel,Sinnoh,Fossil,,,First In Evolution Line,,,Dual-Type,,,,
+Bastiodon,,Rock,Steel,Sinnoh,Fossil,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Burmy,Plant Cloak,Bug,,Sinnoh,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,,
+Burmy,Sandy Cloak,Bug,,Sinnoh,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,,
+Burmy,Trash Cloak,Bug,,Sinnoh,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,,
+Wormadam Plant,Plant Cloak,Bug,Grass,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Wormadam Sandy,Sandy Cloak,Bug,Ground,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Wormadam Trash,Trash Cloak,Bug,Steel,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Mothim,,Bug,Flying,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Combee,,Bug,Flying,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,,
+Vespiquen,,Bug,Flying,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Pachirisu,,Electric,,Sinnoh,,,,,,Mono-Type,,,,,No Evolution Line
+Buizel,,Water,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Floatzel,,Water,,Sinnoh,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Cherubi,,Grass,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Cherrim,,Grass,,Sinnoh,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Shellos,,Water,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Gastrodon,,Water,Ground,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Ambipom,,Normal,,Sinnoh,,,,Final Evolution,,Mono-Type,,,,,
+Drifloon,,Ghost,Flying,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,,
+Drifblim,,Ghost,Flying,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Buneary,,Normal,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Lopunny,,Normal,,Sinnoh,,,Evolved By Friendship,Final Evolution,,Mono-Type,,,,,
+Lopunny Mega,Mega Lopunny,Normal,Fighting,Sinnoh,,,Evolved By Friendship,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Mismagius,,Ghost,,Sinnoh,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Honchkrow,,Dark,Flying,Sinnoh,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Glameow,,Normal,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Purugly,,Normal,,Sinnoh,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Chingling,,Psychic,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Stunky,,Poison,Dark,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,,
+Skuntank,,Poison,Dark,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Bronzor,,Steel,Psychic,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,,
+Bronzong,,Steel,Psychic,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Bonsly,,Rock,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Mime Jr.,,Psychic,Fairy,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,Baby,
+Happiny,,Normal,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Chatot,,Normal,Flying,Sinnoh,,,,,,,Dual-Type,,,,No Evolution Line
+Spiritomb,,Ghost,Dark,Sinnoh,,,,,,,Dual-Type,,,,No Evolution Line
+Gible,,Dragon,Ground,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,,
+Gabite,,Dragon,Ground,Sinnoh,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Garchomp,,Dragon,Ground,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Garchomp Mega,Mega Garchomp,Dragon,Ground,Sinnoh,,,,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Munchlax,,Normal,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Riolu,,Fighting,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,Baby,
+Lucario,,Fighting,Steel,Sinnoh,,,Evolved By Friendship,Final Evolution,,,Dual-Type,,,,
+Lucario Mega,Mega Lucario,Fighting,Steel,Sinnoh,,,,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Hippopotas,,Ground,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Hippowdon,,Ground,,Sinnoh,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Skorupi,,Poison,Bug,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,,
+Drapion,,Poison,Dark,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Croagunk,,Poison,Fighting,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,,
+Toxicroak,,Poison,Fighting,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Carnivine,,Grass,,Sinnoh,,,,,,Mono-Type,,,,,No Evolution Line
+Finneon,,Water,,Sinnoh,,,,First In Evolution Line,,Mono-Type,,,,,
+Lumineon,,Water,,Sinnoh,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Mantyke,,Water,Flying,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,Baby,
+Snover,,Grass,Ice,Sinnoh,,,,First In Evolution Line,,,Dual-Type,,,,
+Abomasnow,,Grass,Ice,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Abomasnow Mega,Mega Abomasnow,Grass,Ice,Sinnoh,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Weavile,,Dark,Ice,Sinnoh,,,,Final Evolution,,,Dual-Type,,,,
+Magnezone,,Electric,Steel,Sinnoh,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Lickilicky,,Normal,,Sinnoh,,,,Final Evolution,,Mono-Type,,,,,
+Rhyperior,,Ground,Rock,Sinnoh,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Tangrowth,,Grass,,Sinnoh,,,,Final Evolution,,Mono-Type,,,,,
+Electivire,,Electric,,Sinnoh,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Magmortar,,Fire,,Sinnoh,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Togekiss,,Fairy,Flying,Sinnoh,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Yanmega,,Bug,Flying,Sinnoh,,,,Final Evolution,,,Dual-Type,,,,
+Leafeon,,Grass,,Sinnoh,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Glaceon,,Ice,,Sinnoh,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Gliscor,,Ground,Flying,Sinnoh,,,,Final Evolution,,,Dual-Type,,,,
+Mamoswine,,Ice,Ground,Sinnoh,,,,Final Evolution,,,Dual-Type,,,,
+Porygon-Z,,Normal,,Sinnoh,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Gallade,,Psychic,Fighting,Sinnoh,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Gallade Mega,Mega Gallade,Psychic,Fighting,Sinnoh,,,,Final Evolution,,,Dual-Type,Mega Evolved,,,
+Probopass,,Rock,Steel,Sinnoh,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Dusknoir,,Ghost,,Sinnoh,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Froslass,,Ice,Ghost,Sinnoh,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Rotom,,Electric,Ghost,Sinnoh,,,,,,,Dual-Type,,,,No Evolution Line
+Rotom Heat,Heat Rotom,Electric,Fire,Sinnoh,,,,,,,Dual-Type,,,,No Evolution Line
+Rotom Wash,Wash Rotom,Electric,Water,Sinnoh,,,,,,,Dual-Type,,,,No Evolution Line
+Rotom Frost,Frost Rotom,Electric,Ice,Sinnoh,,,,,,,Dual-Type,,,,No Evolution Line
+Rotom Fan,Fan Rotom,Electric,Flying,Sinnoh,,,,,,,Dual-Type,,,,No Evolution Line
+Rotom Mow,Mow Rotom,Electric,Grass,Sinnoh,,,,,,,Dual-Type,,,,No Evolution Line
+Uxie,,Psychic,,Sinnoh,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Mesprit,,Psychic,,Sinnoh,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Azelf,,Psychic,,Sinnoh,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Dialga,,Steel,Dragon,Sinnoh,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Dialga Origin,Origin Forme,Steel,Dragon,Sinnoh,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Palkia,,Water,Dragon,Sinnoh,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Palkia Origin,Origin Forme,Water,Dragon,Sinnoh,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Heatran,,Fire,Steel,Sinnoh,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Regigigas,,Normal,,Sinnoh,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Giratina Altered,Altered Forme,Ghost,Dragon,Sinnoh,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Giratina Origin,Origin Forme,Ghost,Dragon,Sinnoh,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Cresselia,,Psychic,,Sinnoh,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Phione,,Water,,Sinnoh,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Manaphy,,Water,,Sinnoh,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Darkrai,,Dark,,Sinnoh,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Shaymin Land,Land Forme,Grass,,Sinnoh,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Shaymin Sky,Sky Forme,Grass,Flying,Sinnoh,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Arceus,,Normal,,Sinnoh,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Victini,,Psychic,Fire,Sinnoh,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Snivy,,Grass,,Unova,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Servine,,Grass,,Unova,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Serperior,,Grass,,Unova,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Tepig,,Fire,,Unova,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Pignite,,Fire,Fighting,Unova,First Partner,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Emboar,,Fire,Fighting,Unova,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Oshawott,,Water,,Unova,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Dewott,,Water,,Unova,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Samurott,,Water,,Unova,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Samurott Hisui,Hisuian Samurott,Water,Dark,Hisui,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Patrat,,Normal,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Watchog,,Normal,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Lillipup,,Normal,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Herdier,,Normal,,Unova,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Stoutland,,Normal,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Purrloin,,Dark,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Liepard,,Dark,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Pansage,,Grass,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Simisage,,Grass,,Unova,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Pansear,,Fire,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Simisear,,Fire,,Unova,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Panpour,,Water,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Simipour,,Water,,Unova,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Munna,,Psychic,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Musharna,,Psychic,,Unova,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Pidove,,Normal,Flying,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Tranquill,,Normal,Flying,Unova,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Unfezant,,Normal,Flying,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Blitzle,,Electric,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Zebstrika,,Electric,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Roggenrola,,Rock,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Boldore,,Rock,,Unova,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Gigalith,,Rock,,Unova,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Woobat,,Psychic,Flying,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Swoobat,,Psychic,Flying,Unova,,,Evolved By Friendship,Final Evolution,,,Dual-Type,,,,
+Drilbur,,Ground,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Excadrill,,Ground,Steel,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Audino,,Normal,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Audino Mega,Mega Audino,Normal,Fairy,Unova,,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Timburr,,Fighting,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Gurdurr,,Fighting,,Unova,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Conkeldurr,,Fighting,,Unova,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Tympole,,Water,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Palpitoad,,Water,Ground,Unova,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Seismitoad,,Water,Ground,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Throh,,Fighting,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Sawk,,Fighting,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Sewaddle,,Bug,Grass,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Swadloon,,Bug,Grass,Unova,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Leavanny,,Bug,Grass,Unova,,,Evolved By Friendship,Final Evolution,,,Dual-Type,,,,
+Venipede,,Bug,Poison,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Whirlipede,,Bug,Poison,Unova,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Scolipede,,Bug,Poison,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Cottonee,,Grass,Fairy,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Whimsicott,,Grass,Fairy,Unova,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Petilil,,Grass,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Lilligant,,Grass,,Unova,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Lilligant Hisui,Hisuian Lilligant,Grass,Fighting,Hisui,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Basculin Red Striped,Red-Striped Form,Water,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Basculin Blue Striped,Blue-Striped Form,Water,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Basculin White Striped,White-Striped Form,Water,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Sandile,,Ground,Dark,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Krokorok,,Ground,Dark,Unova,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Krookodile,,Ground,Dark,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Darumaka,,Fire,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Darumaka Galar,Galarian Darumaka,Ice,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Darmanitan Standard,Standard Mode,Fire,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Darmanitan Zen,Zen Mode,Fire,Psychic,Unova,,,,Final Evolution,,,Dual-Type,,,,
+Darmanitan Galar Standard,Galarian Standard Mode,Ice,,Galar,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Darmanitan Galar Zen,Galarian Zen Mode,Ice,Fire,Galar,,,,Final Evolution,,,Dual-Type,,,,
+Maractus,,Grass,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Dwebble,,Bug,Rock,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Crustle,,Bug,Rock,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Scraggy,,Dark,Fighting,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Scrafty,,Dark,Fighting,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Sigilyph,,Psychic,Flying,Unova,,,,,,,Dual-Type,,,,No Evolution Line
+Yamask,,Ghost,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Yamask Galar,Galarian Yamask,Ground,Ghost,Galar,,,,First In Evolution Line,,,Dual-Type,,,,
+Cofagrigus,,Ghost,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Tirtouga,,Water,Rock,Unova,Fossil,,,First In Evolution Line,,,Dual-Type,,,,
+Carracosta,,Water,Rock,Unova,Fossil,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Archen,,Rock,Flying,Unova,Fossil,,,First In Evolution Line,,,Dual-Type,,,,
+Archeops,,Rock,Flying,Unova,Fossil,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Trubbish,,Poison,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Garbodor,,Poison,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,Gmax Form,,
+Zorua,,Dark,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Zorua Hisui,Hisuian Zorua,Normal,Ghost,Hisui,,,,First In Evolution Line,,,Dual-Type,,,,
+Zoroark,,Dark,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Zoroark Hisui,Hisuian Zoroark,Normal,Ghost,Hisui,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Minccino,,Normal,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Cinccino,,Normal,,Unova,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Gothita,,Psychic,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Gothorita,,Psychic,,Unova,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Gothitelle,,Psychic,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Solosis,,Psychic,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Duosion,,Psychic,,Unova,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Reuniclus,,Psychic,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Ducklett,,Water,Flying,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Swanna,,Water,Flying,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Vanillite,,Ice,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Vanillish,,Ice,,Unova,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Vanilluxe,,Ice,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Deerling,,Normal,Grass,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Sawsbuck,,Normal,Grass,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Emolga,,Electric,Flying,Unova,,,,,,,Dual-Type,,,,No Evolution Line
+Karrablast,,Bug,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Escavalier,,Bug,Steel,Unova,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Foongus,,Grass,Poison,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Amoonguss,,Grass,Poison,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Frillish,,Water,Ghost,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Jellicent,,Water,Ghost,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Alomomola,,Water,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Joltik,,Bug,Electric,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Galvantula,,Bug,Electric,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Ferroseed,,Grass,Steel,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Ferrothorn,,Grass,Steel,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Klink,,Steel,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Klang,,Steel,,Unova,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Klinklang,,Steel,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Tynamo,,Electric,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Eelektrik,,Electric,,Unova,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Eelektross,,Electric,,Unova,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Elgyem,,Psychic,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Beheeyem,,Psychic,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Litwick,,Ghost,Fire,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Lampent,,Ghost,Fire,Unova,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Chandelure,,Ghost,Fire,Unova,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Axew,,Dragon,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Fraxure,,Dragon,,Unova,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Haxorus,,Dragon,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Cubchoo,,Ice,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Beartic,,Ice,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Cryogonal,,Ice,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Shelmet,,Bug,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Accelgor,,Bug,,Unova,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Stunfisk,,Ground,Electric,Unova,,,,,,,Dual-Type,,,,No Evolution Line
+Stunfisk Galar,Galarian Stunfisk,Ground,Steel,Galar,,,,,,,Dual-Type,,,,No Evolution Line
+Mienfoo,,Fighting,,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Mienshao,,Fighting,,Unova,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Druddigon,,Dragon,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Golett,,Ground,Ghost,Unova,,,,First In Evolution Line,,Mono-Type,,,,,
+Golurk,,Ground,Ghost,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Pawniard,,Dark,Steel,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Bisharp,,Dark,Steel,Unova,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Bouffalant,,Normal,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Rufflet,,Normal,Flying,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Braviary,,Normal,Flying,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Braviary Hisui,Hisuian Braviary,Psychic,Flying,Hisui,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Vullaby,,Dark,Flying,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Mandibuzz,,Dark,Flying,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Heatmor,,Fire,,Unova,,,,,,Mono-Type,,,,,No Evolution Line
+Durant,,Bug,Steel,Unova,,,,,,,Dual-Type,,,,No Evolution Line
+Deino,,Dark,Dragon,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Zweilous,,Dark,Dragon,Unova,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Hydreigon,,Dark,Dragon,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Larvesta,,Bug,Fire,Unova,,,,First In Evolution Line,,,Dual-Type,,,,
+Volcarona,,Bug,Fire,Unova,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Cobalion,,Steel,Fighting,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Terrakion,,Rock,Fighting,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Virizion,,Grass,Fighting,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Tornadus Incarnate,Incarnate Forme,Flying,,Unova,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Tornadus Therian,Therian Forme,Flying,,Unova,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Thundurus Incarnate,Incarnate Forme,Electric,Flying,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Thundurus Therian,Therian Forme,Electric,Flying,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Reshiram,,Dragon,Fire,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Zekrom,,Dragon,Electric,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Landorus Incarnate,Incarnate Forme,Ground,Flying,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Landorus Therian,Therian Forme,Ground,Flying,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Kyurem,,Dragon,Ice,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Kyurem White,White Kyurem,Dragon,Ice,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Kyurem Black,Black Kyurem,Dragon,Ice,Unova,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Keldeo Ordinary,Ordinary Form,Water,Fighting,Unova,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Keldeo Resolute,Resolute Form,Water,Fighting,Unova,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Meloetta Aria,Aria Forme,Normal,Psychic,Unova,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Meloetta Pirouette,Pirouette Forme,Normal,Fighting,Unova,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Genesect,,Bug,Steel,Unova,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Chespin,,Grass,,Kalos,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Quilladin,,Grass,,Kalos,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Chesnaught,,Grass,Fighting,Kalos,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Fennekin,,Fire,,Kalos,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Braixen,,Fire,,Kalos,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Delphox,,Fire,Psychic,Kalos,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Froakie,,Water,,Kalos,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Frogadier,,Water,,Kalos,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Greninja,,Water,Dark,Kalos,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Greninja Ash,Ash-Greninja,Water,Dark,Kalos,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Bunnelby,,Normal,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Diggersby,,Normal,Ground,Kalos,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Fletchling,,Normal,Flying,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Fletchinder,,Fire,Flying,Kalos,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Talonflame,,Fire,Flying,Kalos,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Scatterbug,,Bug,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Spewpa,,Bug,,Kalos,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Vivillon,,Bug,Flying,Kalos,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Litleo,,Fire,Normal,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Pyroar,,Fire,Normal,Kalos,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Flabébé,,Fairy,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Floette,,Fairy,,Kalos,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Florges,,Fairy,,Kalos,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Skiddo,,Grass,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Gogoat,,Grass,,Kalos,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Pancham,,Fighting,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Pangoro,,Fighting,Dark,Kalos,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Furfrou,,Normal,,Kalos,,,,,,Mono-Type,,,,,No Evolution Line
+Espurr,,Psychic,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Meowstic Male,Male,Psychic,,Kalos,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Meowstic Female,Female,Psychic,,Kalos,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Honedge,,Steel,Ghost,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Doublade,,Steel,Ghost,Kalos,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Aegislash Shield,Shield Forme,Steel,Ghost,Kalos,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Aegislash Blade,Blade Forme,Steel,Ghost,Kalos,,,,Final Evolution,,,Dual-Type,,,,
+Spritzee,,Fairy,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Aromatisse,,Fairy,,Kalos,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Swirlix,,Fairy,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Slurpuff,,Fairy,,Kalos,,,Evolved By Trade,Final Evolution,,Mono-Type,,,,,
+Inkay,,Dark,Psychic,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Malamar,,Dark,Psychic,Kalos,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Binacle,,Rock,Water,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Barbaracle,,Rock,Water,Kalos,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Skrelp,,Poison,Water,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Dragalge,,Poison,Dragon,Kalos,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Clauncher,,Water,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Clawitzer,,Water,,Kalos,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Helioptile,,Electric,Normal,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Heliolisk,,Electric,Normal,Kalos,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Tyrunt,,Rock,Dragon,Kalos,Fossil,,,First In Evolution Line,,,Dual-Type,,,,
+Tyrantrum,,Rock,Dragon,Kalos,Fossil,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Amaura,,Rock,Ice,Kalos,Fossil,,,First In Evolution Line,,,Dual-Type,,,,
+Aurorus,,Rock,Ice,Kalos,Fossil,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Sylveon,,Fairy,,Kalos,,,Evolved By Friendship,Final Evolution,,Mono-Type,,,,,
+Hawlucha,,Fighting,Flying,Kalos,,,,,,,Dual-Type,,,,No Evolution Line
+Dedenne,,Electric,Fairy,Kalos,,,,,,,Dual-Type,,,,No Evolution Line
+Carbink,,Rock,Fairy,Kalos,,,,,,,,,,,No Evolution Line
+Goomy,,Dragon,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Sliggoo,,Dragon,,Kalos,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Sliggoo Hisui,Hisuian Sliggoo,Steel,Dragon,Hisui,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Goodra,,Dragon,,Kalos,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Goodra Hisui,Hisuian Goodra,Steel,Dragon,Hisui,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Klefki,,Steel,Fairy,Kalos,,,,,,,Dual-Type,,,,No Evolution Line
+Phantump,,Ghost,Grass,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Trevenant,,Ghost,Grass,Kalos,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Pumpkaboo Average,Average Size,Ghost,Grass,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Pumpkaboo Small,Small Size,Ghost,Grass,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Pumpkaboo Large,Large Size,Ghost,Grass,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Pumpkaboo Super,Super Size,Ghost,Grass,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Gourgeist Average,Average Size,Ghost,Grass,Kalos,,,Evolved By Trade,Final Evolution,,,Dual-Type,,,,
+Gourgeist Small,Small Size,Ghost,Grass,Kalos,,,,Final Evolution,,,Dual-Type,,,,
+Gourgeist Large,Large Size,Ghost,Grass,Kalos,,,,Final Evolution,,,Dual-Type,,,,
+Gourgeist Super,Super Size,Ghost,Grass,Kalos,,,,Final Evolution,,,Dual-Type,,,,
+Bergmite,,Ice,,Kalos,,,,First In Evolution Line,,Mono-Type,,,,,
+Avalugg,,Ice,,Kalos,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Avalugg Hisui,Hisuian Avalugg,Ice,Rock,Hisui,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Noibat,,Flying,Dragon,Kalos,,,,First In Evolution Line,,,Dual-Type,,,,
+Noivern,,Flying,Dragon,Kalos,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Xerneas,,Fairy,,Kalos,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Yveltal,,Dark,Flying,Kalos,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Zygarde 50%,50% Forme,Dragon,Ground,Kalos,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Zygarde 10%,10% Forme,Dragon,Ground,Kalos,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Zygarde Complete,Complete Forme,Dragon,Ground,Kalos,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Diancie,,Rock,Fairy,Kalos,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Diancie Mega,Mega Diancie,Rock,Fairy,Kalos,Mythical,,,,,,Dual-Type,Mega Evolved,,,No Evolution Line
+Hoopa,Hoopa Confined,Psychic,Ghost,Kalos,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Hoopa Unbound,Hoopa Unbound,Psychic,Dark,Kalos,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Volcanion,,Fire,Water,Kalos,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Rowlet,,Grass,Flying,Alola,First Partner,,,First In Evolution Line,,,Dual-Type,,,,
+Dartrix,,Grass,Flying,Alola,First Partner,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Decidueye,,Grass,Ghost,Alola,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Decidueye Hisui,Hisuian Decidueye,Grass,Fighting,Hisui,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Litten,,Fire,,Alola,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Torracat,,Fire,,Alola,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Incineroar,,Fire,Dark,Alola,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Popplio,,Water,,Alola,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Brionne,,Water,,Alola,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Primarina,,Water,Fairy,Alola,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Pikipek,,Normal,Flying,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Trumbeak,,Normal,Flying,Alola,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Toucannon,,Normal,Flying,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Yungoos,,Normal,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Gumshoos,,Normal,,Alola,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Grubbin,,Bug,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Charjabug,,Bug,Electric,Alola,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Vikavolt,,Bug,Electric,Alola,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Crabrawler,,Fighting,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Crabominable,,Fighting,Ice,Alola,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Oricorio Baile,Baile Style,Fire,Flying,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Oricorio Pom-Pom,Pom-Pom Style,Electric,Flying,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Oricorio Pa'u,Pa'u Style,Psychic,Flying,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Oricorio Sensu,Sensu Style,Ghost,Flying,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Cutiefly,,Bug,Fairy,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Ribombee,,Bug,Fairy,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Rockruff,,Rock,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Rockruff Own Tempo,Own Tempo Rockruff,Rock,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Lycanroc Midday,Midday Form,Rock,,Alola,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Lycanroc Midnight,Midnight Form,Rock,,Alola,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Lycanroc Dusk,Dusk Form,Rock,,Alola,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Wishiwashi Solo,Solo Form,Water,,Alola,,,,,,Mono-Type,,,,,No Evolution Line
+Wishiwashi School,School Form,Water,,Alola,,,,,,Mono-Type,,,,,No Evolution Line
+Mareanie,,Poison,Water,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Toxapex,,Poison,Water,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Mudbray,,Ground,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Mudsdale,,Ground,,Alola,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Dewpider,,Water,Bug,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Araquanid,,Water,Bug,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Fomantis,,Grass,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Lurantis,,Grass,,Alola,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Morelull,,Grass,Fairy,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Shiinotic,,Grass,Fairy,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Salandit,,Poison,Fire,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Salazzle,,Poison,Fire,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Stufful,,Normal,Fighting,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Bewear,,Normal,Fighting,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Bounsweet,,Grass,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Steenee,,Grass,,Alola,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Tsareena,,Grass,,Alola,,,,Final Evolution,,Mono-Type,,,,,
+Comfey,,Fairy,,Alola,,,,,,Mono-Type,,,,,No Evolution Line
+Oranguru,,Normal,Psychic,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Passimian,,Fighting,,Alola,,,,,,Mono-Type,,,,,No Evolution Line
+Wimpod,,Bug,Water,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Golisopod,,Bug,Water,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Sandygast,,Ghost,Ground,Alola,,,,First In Evolution Line,,,Dual-Type,,,,
+Palossand,,Ghost,Ground,Alola,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Pyukumuku,,Water,,Alola,,,,,,Mono-Type,,,,,No Evolution Line
+Type: Null,,Normal,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Silvally,,Normal,,Alola,,,Evolved By Friendship,Final Evolution,,Mono-Type,,,,,
+Minior Meteor,Meteor Form,Rock,Flying,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Minior,Core Form,Rock,Flying,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Komala,,Normal,,Alola,,,,,,Mono-Type,,,,,No Evolution Line
+Turtonator,,Fire,Dragon,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Togedemaru,,Electric,Steel,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Mimikyu,,Ghost,Fairy,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Bruxish,,Water,Psychic,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Drampa,,Normal,Dragon,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Dhelmise,,Ghost,Grass,Alola,,,,,,,Dual-Type,,,,No Evolution Line
+Jangmo-o,,Dragon,,Alola,,,,First In Evolution Line,,Mono-Type,,,,,
+Hakamo-o,,Dragon,Fighting,Alola,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Kommo-o,,Dragon,Fighting,Alola,,,Evolved By Level-Up,,,,Dual-Type,,,,
+Tapu Koko,,Electric,Fairy,Alola,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Tapu Lele,,Psychic,Fairy,Alola,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Tapu Bulu,,Grass,Fairy,Alola,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Tapu Fini,,Water,Fairy,Alola,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Cosmog,,Psychic,,Alola,Legendary,,,First In Evolution Line,,Mono-Type,,,,,
+Cosmoem,,Psychic,,Alola,Legendary,,Evolved By Level-Up,Middle Evolution,Has Branched Evolution,Mono-Type,,,,,
+Solgaleo,,Psychic,Steel,Alola,Legendary,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Lunala,,Psychic,Ghost,Alola,Legendary,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Nihilego,,Rock,Poison,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Buzzwole,,Bug,Fighting,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Pheromosa,,Bug,Fighting,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Xurkitree,,Electric,,Alola,Ultra Beast,,,,,Mono-Type,,,,,No Evolution Line
+Celesteela,,Steel,Flying,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Kartana,,Grass,Steel,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Guzzlord,,Dark,Dragon,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Necrozma,,Psychic,,Alola,Ultra Beast,,,,,Mono-Type,,,,,No Evolution Line
+Necrozma Dusk,Dusk Mane Necrozma,Psychic,Steel,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Necrozma Dawn,Dawn Wings Necrozma,Psychic,Ghost,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Necrozma Ultra,Ultra Necrozma,Psychic,Dragon,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Magearna,,Steel,Fairy,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Marshadow,,Fighting,Ghost,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Poipole,,Poison,,Alola,Ultra Beast,,,First In Evolution Line,,Mono-Type,,,,,
+Naganadel,,Poison,Dragon,Alola,Ultra Beast,,,Final Evolution,,,Dual-Type,,,,
+Stakataka,,Rock,Steel,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Blacephalon,,Fire,Ghost,Alola,Ultra Beast,,,,,,Dual-Type,,,,No Evolution Line
+Zeraora,,Electric,,Alola,Mythical,,,,,Mono-Type,,,,,No Evolution Line
+Meltan,,Steel,,Alola,Mythical,,,First In Evolution Line,,Mono-Type,,,,,
+Melmetal,,Steel,,Alola,Mythical,,,Final Evolution,,Mono-Type,,,Gmax Form,,
+Grookey,,Grass,,Galar,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Thwackey,,Grass,,Galar,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Rillaboom,,Grass,,Galar,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,Gmax Form,,
+Scorbunny,,Fire,,Galar,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Raboot,,Fire,,Galar,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Cinderace,,Fire,,Galar,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,Gmax Form,,
+Sobble,,Water,,Galar,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Drizzile,,Water,,Galar,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Inteleon,,Water,,Galar,First Partner,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,Gmax Form,,
+Skwovet,,Normal,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Greedent,,Normal,,Galar,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Rookidee,,Flying,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Corvisquire,,Flying,,Galar,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Corviknight,,Flying,Steel,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Blipbug,,Bug,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Dottler,,Bug,Psychic,Galar,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Orbeetle,,Bug,Psychic,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Nickit,,Dark,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Thievul,,Dark,,Galar,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Gossifleur,,Grass,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Eldegoss,,Grass,,Galar,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Wooloo,,Normal,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Dubwool,,Normal,,Galar,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Chewtle,,Water,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Drednaw,,Water,Rock,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Yamper,,Electric,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Boltund,,Electric,,Galar,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Rolycoly,,Rock,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Carkol,,Rock,Fire,Galar,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Coalossal,,Rock,Fire,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Applin,,Grass,Dragon,Galar,,,,First In Evolution Line,Has Branched Evolution,,Dual-Type,,,,
+Flapple,,Grass,Dragon,Galar,,,Evolved By Item,Final Evolution,,,Dual-Type,,Gmax Form,,
+Appletun,,Grass,Dragon,Galar,,,Evolved By Item,Final Evolution,,,Dual-Type,,Gmax Form,,
+Silicobra,,Ground,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Sandaconda,,Ground,,Galar,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,Gmax Form,,
+Cramorant,,Flying,Water,Galar,,,,,,,Dual-Type,,,,No Evolution Line
+Arrokuda,,Water,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Barraskewda,,Water,,Galar,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Toxel,,Electric,Poison,Galar,,,,First In Evolution Line,,,Dual-Type,,,Baby,
+Toxtricity Amped,Amped Form,Electric,Poison,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Toxtricity Low Key,Low Key Form,Electric,Poison,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Sizzlipede,,Fire,Bug,Galar,,,,First In Evolution Line,,,Dual-Type,,,,
+Centiskorch,,Fire,Bug,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Clobbopus,,Fighting,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Grapploct,,Fighting,,Galar,,,,Final Evolution,,Mono-Type,,,,,
+Sinistea,,Ghost,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Polteageist,,Ghost,,Galar,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Hatenna,,Psychic,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Hattrem,,Psychic,,Galar,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Hatterene,,Psychic,Fairy,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Impidimp,,Dark,Fairy,Galar,,,,First In Evolution Line,,,Dual-Type,,,,
+Morgrem,,Dark,Fairy,Galar,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Grimmsnarl,,Dark,Fairy,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,Gmax Form,,
+Obstagoon,,Dark,Normal,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Perrserker,,Steel,,Galar,,,,Final Evolution,,Mono-Type,,,,,
+Cursola,,Ghost,,Galar,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Sirfetch'd,,Fighting,,Galar,,,,Final Evolution,,Mono-Type,,,,,
+Mr. Rime,,Ice,Psychic,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Runerigus,,Ground,Ghost,Galar,,,,Final Evolution,,,Dual-Type,,,,
+Milcery,,Fairy,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Alcremie,,Fairy,,Galar,,,,Final Evolution,,Mono-Type,,,Gmax Form,,
+Falinks,,Fighting,,Galar,,,,,,Mono-Type,,,,,No Evolution Line
+Pincurchin,,Electric,,Galar,,,,,,Mono-Type,,,,,No Evolution Line
+Snom,,Ice,Bug,Galar,,,,First In Evolution Line,,,Dual-Type,,,,
+Frosmoth,,Ice,Bug,Galar,,,Evolved By Friendship,Final Evolution,,,Dual-Type,,,,
+Stonjourner,,Rock,,Galar,,,,,,Mono-Type,,,,,No Evolution Line
+Eiscue Ice,Ice Face,Ice,,Galar,,,,,,Mono-Type,,,,,No Evolution Line
+Eiscue Noice,Noice Face,Ice,,Galar,,,,,,Mono-Type,,,,,No Evolution Line
+Indeedee Male,Male,Psychic,Normal,Galar,,,,,,,Dual-Type,,,,No Evolution Line
+Indeedee Female,Female,Psychic,Normal,Galar,,,,,,,Dual-Type,,,,No Evolution Line
+Morpeko Full Belly,Full Belly Mode,Electric,Dark,Galar,,,,,,,Dual-Type,,,,No Evolution Line
+Morpeko Hangry,Hangry Mode,Electric,Dark,Galar,,,,,,,Dual-Type,,,,No Evolution Line
+Cufant,,Steel,,Galar,,,,First In Evolution Line,,Mono-Type,,,,,
+Copperajah,,Steel,,Galar,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,Gmax Form,,
+Dracozolt,,Electric,Dragon,Galar,Fossil,,,,,,Dual-Type,,,,No Evolution Line
+Arctozolt,,Electric,Ice,Galar,Fossil,,,,,,Dual-Type,,,,No Evolution Line
+Dracovish,,Water,Dragon,Galar,Fossil,,,,,,Dual-Type,,,,No Evolution Line
+Arctovish,,Water,Ice,Galar,Fossil,,,,,,Dual-Type,,,,No Evolution Line
+Duraludon,,Steel,Dragon,Galar,,,,First In Evolution Line,,,Dual-Type,,Gmax Form,,
+Dreepy,,Dragon,Ghost,Galar,,,,First In Evolution Line,,,Dual-Type,,,,
+Drakloak,,Dragon,Ghost,Galar,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Dragapult,,Dragon,Ghost,Galar,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Zacian,Hero of Many Battles,Fairy,,Galar,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Zacian Crowned,Crowned Sword,Fairy,Steel,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Zamazenta,Hero of Many Battles,Fighting,,Galar,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Zamazenta Crowned,Crowned Shield,Fighting,Steel,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Eternatus,,Poison,Dragon,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Eternatus Eternamax,Eternamax,Poison,Dragon,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Kubfu,,Fighting,,Galar,Legendary,,,First In Evolution Line,,Mono-Type,,,,,
+Urshifu Single Strike,Single Strike Style,Fighting,Dark,Galar,Legendary,,Evolved By Item,Final Evolution,,,Dual-Type,,Gmax Form,,
+Urshifu Rapid Strike,Rapid Strike Style,Fighting,Water,Galar,Legendary,,Evolved By Item,Final Evolution,,,Dual-Type,,Gmax Form,,
+Zarude,,Dark,Grass,Galar,Mythical,,,,,,Dual-Type,,,,No Evolution Line
+Regieleki,,Electric,,Galar,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Regidrago,,Dragon,,Galar,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Glastrier,,Ice,,Galar,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Spectrier,,Ghost,,Galar,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Calyrex,,Psychic,Grass,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Calyrex Ice,Ice Rider,Psychic,Ice,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Calyrex Shadow,Shadow Rider,Psychic,Ghost,Galar,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Wyrdeer,,Normal,Psychic,Hisui,,,,Final Evolution,,,Dual-Type,,,,
+Kleavor,,Bug,Rock,Hisui,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Ursaluna,,Ground,Normal,Hisui,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Ursaluna Bloodmoon,Bloodmoon,Ground,Normal,Hisui,,,,Final Evolution,,,Dual-Type,,,,
+Basculegion Male,Male,Water,Ghost,Hisui,,,,Final Evolution,,,Dual-Type,,,,
+Basculegion Female,Female,Water,Ghost,Hisui,,,,Final Evolution,,,Dual-Type,,,,
+Sneasler,,Fighting,Poison,Hisui,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Overqwil,,Dark,Poison,Hisui,,,,Final Evolution,,,Dual-Type,,,,
+Enamorus Incarnate,Incarnate Forme,Fairy,Flying,Hisui,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Enamorus Therian,Therian Forme,Fairy,Flying,Hisui,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Sprigatito,,Grass,,Paldea + Area Zero DLC,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Floragato,,Grass,,Paldea + Area Zero DLC,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Meowscarada,,Grass,Dark,Paldea + Area Zero DLC,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Fuecoco,,Fire,,Paldea + Area Zero DLC,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Crocalor,,Fire,,Paldea + Area Zero DLC,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Skeledirge,,Fire,Ghost,Paldea + Area Zero DLC,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Quaxly,,Water,,Paldea + Area Zero DLC,First Partner,,,First In Evolution Line,,Mono-Type,,,,,
+Quaxwell,,Water,,Paldea + Area Zero DLC,First Partner,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Quaquaval,,Water,Fighting,Paldea + Area Zero DLC,First Partner,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Lechonk,,Normal,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Oinkologne Male,Male,Normal,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Oinkologne Female,Female,Normal,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Tarountula,,Bug,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Spidops,,Bug,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Nymble,,Bug,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Lokix,,Bug,Dark,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Pawmi,,Electric,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Pawmo,,Electric,Fighting,Paldea + Area Zero DLC,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Pawmot,,Electric,Fighting,Paldea + Area Zero DLC,,,,Final Evolution,,,Dual-Type,,,,
+Tandemaus,,Normal,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Maushold Family of Four,Family of Four,Normal,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Maushold Family of Three,Family of Three,Normal,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Fidough,,Fairy,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Dachsbun,,Fairy,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Smoliv,,Grass,Normal,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Dolliv,,Grass,Normal,Paldea + Area Zero DLC,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Arboliva,,Grass,Normal,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Squawkabilly Green Plumage,Green Plumage,Normal,Flying,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Squawkabilly Blue Plumage,Blue Plumage,Normal,Flying,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Squawkabilly Yellow Plumage,Yellow Plumage,Normal,Flying,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Squawkabilly White Plumage,White Plumage,Normal,Flying,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Nacli,,Rock,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Naclstack,,Rock,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Middle Evolution,,Mono-Type,,,,,
+Garganacl,,Rock,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Charcadet,,Fire,,Paldea + Area Zero DLC,,,,First In Evolution Line,Has Branched Evolution,Mono-Type,,,,,
+Armarouge,,Fire,Psychic,Paldea + Area Zero DLC,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Ceruledge,,Fire,Ghost,Paldea + Area Zero DLC,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Tadbulb,,Electric,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Bellibolt,,Electric,,Paldea + Area Zero DLC,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Wattrel,,Electric,Flying,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Kilowattrel,,Electric,Flying,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Maschiff,,Dark,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Mabosstiff,,Dark,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Shroodle,,Poison,Normal,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Grafaiai,,Poison,Normal,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Bramblin,,Grass,Ghost,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Brambleghast,,Grass,Ghost,Paldea + Area Zero DLC,,,,Final Evolution,,,Dual-Type,,,,
+Toedscool,,Ground,Grass,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Toedscruel,,Ground,Grass,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Klawf,,Rock,,Paldea + Area Zero DLC,,,,,,Mono-Type,,,,,No Evolution Line
+Capsakid,,Grass,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Scovillain,,Grass,Fire,Paldea + Area Zero DLC,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Rellor,,Bug,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Rabsca,,Bug,Psychic,Paldea + Area Zero DLC,,,,Final Evolution,,,Dual-Type,,,,
+Flittle,,Psychic,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Espathra,,Psychic,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Tinkatink,,Fairy,Steel,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Tinkatuff,,Fairy,Steel,Paldea + Area Zero DLC,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Tinkaton,,Fairy,Steel,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Wiglett,,Water,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Wugtrio,,Water,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Bombirdier,,Flying,Dark,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Finizen,,Water,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Palafin Zero,Zero Form,Water,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Palafin Hero,Hero Form,Water,,Paldea + Area Zero DLC,,,,Final Evolution,,Mono-Type,,,,,
+Varoom,,Steel,Poison,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Revavroom,,Steel,Poison,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Cyclizar,,Dragon,Normal,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Orthworm,,Steel,,Paldea + Area Zero DLC,,,,,,Mono-Type,,,,,No Evolution Line
+Glimmet,,Rock,Poison,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Glimmora,,Rock,Poison,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Greavard,,Ghost,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Houndstone,,Ghost,,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,Mono-Type,,,,,
+Flamigo,,Flying,Fighting,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Cetoddle,,Ice,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Cetitan,,Ice,,Paldea + Area Zero DLC,,,Evolved By Item,Final Evolution,,Mono-Type,,,,,
+Veluza,,Water,Psychic,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Dondozo,,Water,,Paldea + Area Zero DLC,,,,,,Mono-Type,,,,,No Evolution Line
+Tatsugiri Curly,Curly Form,Dragon,Water,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Tatsugiri Droopy,Droopy Form,Dragon,Water,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Tatsugiri Stretchy,Stretchy Form,Dragon,Water,Paldea + Area Zero DLC,,,,,,,Dual-Type,,,,No Evolution Line
+Annihilape,,Fighting,Ghost,Paldea + Area Zero DLC,,,,Final Evolution,,,Dual-Type,,,,
+Clodsire,,Poison,Ground,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Farigiraf,,Normal,Psychic,Paldea + Area Zero DLC,,,,Final Evolution,,,Dual-Type,,,,
+Dudunsparce Two Segment,Two-Segment Form,Normal,,Paldea + Area Zero DLC,,,,Final Evolution,,Mono-Type,,,,,
+Dudunsparce Three Segment,Three-Segment Form,Normal,,Paldea + Area Zero DLC,,,,Final Evolution,,Mono-Type,,,,,
+Kingambit,,Dark,Steel,Paldea + Area Zero DLC,,,,Final Evolution,,,Dual-Type,,,,
+Great Tusk,,Ground,Fighting,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Scream Tail,,Fairy,Psychic,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Brute Bonnet,,Grass,Dark,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Flutter Mane,,Ghost,Fairy,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Slither Wing,,Bug,Fighting,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Sandy Shocks,,Electric,Ground,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Treads,,Ground,Steel,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Bundle,,Ice,Water,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Hands,,Fighting,Electric,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Jugulis,,Dark,Flying,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Moth,,Fire,Poison,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Thorns,,Rock,Electric,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Frigibax,,Dragon,Ice,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Arctibax,,Dragon,Ice,Paldea + Area Zero DLC,,,Evolved By Level-Up,Middle Evolution,,,Dual-Type,,,,
+Baxcalibur,,Dragon,Ice,Paldea + Area Zero DLC,,,Evolved By Level-Up,Final Evolution,,,Dual-Type,,,,
+Gimmighoul,Chest Form,Ghost,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Gimmighoul Roaming,Roaming Form,Ghost,,Paldea + Area Zero DLC,,,,First In Evolution Line,,Mono-Type,,,,,
+Gholdengo,,Steel,Ghost,Paldea + Area Zero DLC,,,,Final Evolution,,,Dual-Type,,,,
+Wo-Chien,,Dark,Grass,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Chien-Pao,,Dark,Ice,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Ting-Lu,,Dark,Ground,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Chi-Yu,,Dark,Fire,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Roaring Moon,,Dragon,Dark,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Valiant,,Fairy,Fighting,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Koraidon,,Fighting,Dragon,Paldea + Area Zero DLC,Paradox,Legendary,,,,,Dual-Type,,,,No Evolution Line
+Miraidon,,Electric,Dragon,Paldea + Area Zero DLC,Paradox,Legendary,,,,,Dual-Type,,,,No Evolution Line
+Walking Wake,,Water,Dragon,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Leaves,,Grass,Psychic,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Dipplin,,Grass,Dragon,Paldea + Area Zero DLC,,,Evolved By Item,Middle Evolution,,,Dual-Type,,,,
+Poltchageist,,Grass,Ghost,Paldea + Area Zero DLC,,,,First In Evolution Line,,,Dual-Type,,,,
+Sinistcha,,Grass,Ghost,Paldea + Area Zero DLC,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Okidogi,,Poison,Fighting,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Munkidori,,Poison,Psychic,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Fezandipiti,,Poison,Fairy,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Ogerpon,Teal Mask,Grass,,Paldea + Area Zero DLC,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Ogerpon Wellspring Mask,Wellspring Mask,Grass,Water,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Ogerpon Hearthflame Mask,Hearthflame Mask,Grass,Fire,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Ogerpon Cornerstone Mask,Cornerstone Mask,Grass,Rock,Paldea + Area Zero DLC,Legendary,,,,,,Dual-Type,,,,No Evolution Line
+Archaludon,,Steel,Dragon,Paldea + Area Zero DLC,,,Evolved By Item,Final Evolution,,,Dual-Type,,,,
+Hydrapple,,Grass,Dragon,Paldea + Area Zero DLC,,,,Final Evolution,,,Dual-Type,,,,
+Gouging Fire,,Fire,Dragon,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Raging Bolt,,Electric,Dragon,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Boulder,,Rock,Psychic,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Iron Crown,,Steel,Psychic,Paldea + Area Zero DLC,Paradox,,,,,,Dual-Type,,,,No Evolution Line
+Terapagos,Normal Form,Normal,,Paldea + Area Zero DLC,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Terapagos Terastal,Terastal Form,Normal,,Paldea + Area Zero DLC,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Terapagos Stellar,Stellar Form,Normal,,Paldea + Area Zero DLC,Legendary,,,,,Mono-Type,,,,,No Evolution Line
+Pecharunt,,Poison,Ghost,Paldea + Area Zero DLC,Mythical,,,,,,Dual-Type,,,,No Evolution Line
